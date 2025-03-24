@@ -586,3 +586,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+#常用工具
+DOMAIN-SUFFIX,jcidtech.com
+DOMAIN-SUFFIX,jcprogrammer.com
+DOMAIN-SUFFIX,xzmpdf.net
