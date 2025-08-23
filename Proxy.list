@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,b-cdn.net
 
 # 其他网站
+DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
