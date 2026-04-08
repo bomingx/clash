@@ -128,6 +128,7 @@ DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,heptasky.com
 DOMAIN-SUFFIX,polocloud.net
 DOMAIN-SUFFIX,nmcloud.cc
+DOMAIN-SUFFIX,ip.net.coffee
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
