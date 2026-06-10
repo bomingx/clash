@@ -130,6 +130,8 @@ DOMAIN-SUFFIX,heptasky.com
 DOMAIN-SUFFIX,polocloud.net
 DOMAIN-SUFFIX,nmcloud.cc
 DOMAIN-SUFFIX,ip.net.coffee
+DOMAIN-SUFFIX,xn--9kqz23b19z.com
+DOMAIN-SUFFIX,xn--mes91r2ng7p4a.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
